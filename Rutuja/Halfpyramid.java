@@ -1,5 +1,5 @@
 //HALF PYRAMID
-
+import java.util.Scanner;
 public class Halfpyramid {
 
   public static void main(String[] args) {
